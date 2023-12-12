@@ -2,6 +2,10 @@
 
 Passionate Full-Stack Web Developer with a keen eye for design and a love for crafting seamless user experiences. I thrive on turning complex problems into simple, beautiful, and intuitive solutions. Constantly learning and exploring new technologies to stay at the forefront of the ever-evolving web development landscape.
 
+## 📧 Contact
+
+Feel free to reach out to me via email at [khmevada2003@gmail.com](mailto:khmevada2003@gmail.com). I'm always open to interesting conversations and collaboration opportunities!
+
 ## 🚀 Skills
 
 - **Frontend:** HTML, CSS, JavaScript (React, Next), Bootstrap, TailwindCSS
