@@ -1,16 +1,21 @@
-### Hi there 👋
+# Namaste, I'm Kush Mevada 🙏
 
-<!--
-**thekushmevada/thekushmevada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Full-Stack Web Developer with a keen eye for design and a love for crafting seamless user experiences. I thrive on turning complex problems into simple, beautiful, and intuitive solutions. Constantly learning and exploring new technologies to stay at the forefront of the ever-evolving web development landscape.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript (React, Next), Bootstrap, TailwindCSS
+- **Backend:** Node.js, Express, 
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Webpack, npm
+
+## 🌐 Portfolio
+
+Check out my [portfolio website](https://kushmevada.co) for a closer look at my projects and achievements.
+
+## 👥 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/thekushmevada/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/thekushmevada)
+
+Excited about the endless possibilities of technology and always eager to collaborate on interesting projects. Let's build something amazing together! 🚀
