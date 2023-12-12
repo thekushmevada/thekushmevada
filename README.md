@@ -15,7 +15,7 @@ Check out my [portfolio website](https://kushmevada.co) for a closer look at my 
 
 ## 👥 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/thekushmevada/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/thekushmevada)
+- LinkedIn: [@thekushmevada](https://www.linkedin.com/in/thekushmevada/)
+- Twitter: [@thekushmevada](https://twitter.com/thekushmevada)
 
 Excited about the endless possibilities of technology and always eager to collaborate on interesting projects. Let's build something amazing together! 🚀
